@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1709.277" height="613" viewBox="0 0 1709.277 613">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#838def"/>
+      <stop offset="1" stop-color="#453ecc"/>
+    </linearGradient>
+  </defs>
+  <g id="Groupe_12151" data-name="Groupe 12151" transform="translate(-40.723 -4889.368)">
+    <path id="Tracé_12968" data-name="Tracé 12968" d="M6234,384V997H7600V384s-632.506,311.883-1366,0" transform="translate(-5850 4505.368)" opacity="0.83" fill="url(#linear-gradient)"/>
+    <g id="Groupe_610" data-name="Groupe 610" transform="translate(40.723 4895.377)" opacity="0.2">
+      <circle id="Ellipse_13" data-name="Ellipse 13" cx="34.686" cy="34.686" r="34.686" transform="translate(1255.058 94.764) rotate(-150)" fill="#fff"/>
+      <circle id="Ellipse_12" data-name="Ellipse 12" cx="34.686" cy="34.686" r="34.686" transform="translate(0 288.866)" fill="#fff"/>
+      <circle id="Ellipse_14" data-name="Ellipse 14" cx="21.511" cy="21.511" r="21.511" transform="translate(42.484 232.401)" fill="#fff"/>
+      <circle id="Ellipse_15" data-name="Ellipse 15" cx="21.511" cy="21.511" r="21.511" transform="translate(80.127 333.501)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
